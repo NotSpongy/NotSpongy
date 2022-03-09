@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I guess this is where i put my about me??
+
+Uhhh i am learning to code in python and hopefully in 2022 learn some javascript.
+Thats basically it, if you want to ask me more, give me food or hand over some free code i would love that just shoot me a dm on discord.
+
+Discord: Spongy#3001
+
 <!--
 **NotSpongy/NotSpongy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
