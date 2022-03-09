@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there
 
 I guess this is where i put my about me??
 
