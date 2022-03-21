@@ -8,4 +8,5 @@ Thats basically it, if you want to ask me more, give me food or hand over some f
 Most contributions are on my private repo so sorry you cant see my amazing work. 
 
 Discord: Spongy#3001
+
 My bot: https://top.gg/bot/930150644436860998
