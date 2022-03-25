@@ -15,4 +15,4 @@ My bot: https://top.gg/bot/930150644436860998
 <details>
   <summary>:zap: GitHub Stats</summary>
   <br>
-  <img align="left" alt="CodeWithSwastik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CodeWithSwastik&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CodeWithSwastik&show_icons=true&hide_border=true&theme=radical" />
