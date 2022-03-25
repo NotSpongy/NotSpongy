@@ -9,4 +9,4 @@ Most contributions are on my private repo so sorry you cant see my amazing work.
 
 Discord: Spongy#3001
 
-My bot: https://top.gg/bot/930150644436860998
+[My bot](https://top.gg/bot/930150644436860998)
