@@ -10,9 +10,3 @@ Most contributions are on my private repo so sorry you cant see my amazing work.
 Discord: Spongy#3001
 
 My bot: https://top.gg/bot/930150644436860998
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <br>
-  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CodeWithSwastik&show_icons=true&hide_border=true&theme=radical" />
