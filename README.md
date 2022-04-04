@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-I guess this is where i put my about me??
+    I guess this is where i put my about me??
 
 Learning to code in python and hopefully in 2022 learn some javascript.
 Welp thats it, if you want to ask me more, give me food or hand over some free code i would love that just shoot me a dm on discord.
