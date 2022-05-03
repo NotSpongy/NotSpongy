@@ -15,7 +15,4 @@ Discord: Spongy#3001
 
 [Support Server](https://discord.gg/zkRcymnEXf)
 
-
-<p align="center">
-    
-</p
+[Side Project](link)
