@@ -15,4 +15,4 @@ Discord: Spongy#3001
 
 [Potato Support Server](https://discord.gg/zkRcymnEXf)
 
-[Side Project](link)
+[My Server](https://discord.gg/GAUnmgH)
