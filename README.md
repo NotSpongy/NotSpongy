@@ -13,6 +13,6 @@ Discord: Spongy#3001
 
 [My bot](https://top.gg/bot/930150644436860998)
 
-[Support Server](https://discord.gg/zkRcymnEXf)
+[Potato Support Server](https://discord.gg/zkRcymnEXf)
 
 [Side Project](link)
