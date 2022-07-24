@@ -11,8 +11,8 @@ Discord: Spongy#3001
 
 ### Links:
 
-[Potato](https://top.gg/bot/930150644436860998) (My Bot)
+[Potato](https://top.gg/bot/930150644436860998) (Now shutdown)
 
-[Potato Support Server](https://discord.gg/zkRcymnEXf)
+[Potato Support Server](https://discord.gg/zkRcymnEXf) 
 
 [My Server](https://discord.gg/GAUnmgH)
